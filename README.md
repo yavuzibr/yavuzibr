@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yavuzibr,
 - ⚡ I'm a Turkish electric-electronic engineer,
-- 👀 I’m interested in AI, blockchain,
-- 🌱 I’m currently learning  python,
+- 👀 I’m interested in AI, Deep Learning, Machine Learning
+- 🌱 I’m currently learning Python, mySQL, MongoDB, ML-DL-AI algorithms
 - 💞️ I’m looking to collaborate on tech companies uses new technologies about environmental project and purposes,
 - 📫 How to reach me --> @yavuzibr on twitter and instagram
 
