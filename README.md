@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yavuzibr,
-- ⚡ I'm a Turkish electric-electronic engineer, AI/ML Engineer
+- ⚡ I'm an AI Engineer
 - 👀 I’m interested in AI, Deep Learning, and Machine Learning
 - 🌱 I’m currently learning Python, mySQL, ML-DL-AI algorithms
 - 💞️ I’m looking to collaborate with tech companies use new technologies
