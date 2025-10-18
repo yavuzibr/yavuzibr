@@ -6,16 +6,6 @@
 📍 Ankara/Turkiye    
 📧 Email --> yavuzibr98@gmail.com
 
-**Vector Databases**
-<p align="left">
-  <a href="https://milvus.io"><img src="https://img.shields.io/badge/Milvus-00A883?style=for-the-badge" /></a>
-  <a href="https://qdrant.tech"><img src="https://img.shields.io/badge/Qdrant-FF4D4D?style=for-the-badge&logo=qdrant&logoColor=white" /></a>
-  <a href="https://www.pinecone.io"><img src="https://img.shields.io/badge/Pinecone-05A081?style=for-the-badge&logo=pinecone&logoColor=white" /></a>
-  <a href="https://weaviate.io"><img src="https://img.shields.io/badge/Weaviate-ED6B21?style=for-the-badge&logo=weaviate&logoColor=white" /></a>
-  <a href="https://github.com/facebookresearch/faiss"><img src="https://img.shields.io/badge/FAISS-005571?style=for-the-badge" /></a>
-</p>
-
-
 
 ## 🧩 Uzmanlık Alanlarım
 - 🔹 **Doğal Dil İşleme (NLP)** – Tokenization, Morphological Analysis, Embedding Models  
@@ -34,7 +24,7 @@
 
 ## ⚙️ Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,docker,tensorflow,git,github,vscode,pinecone" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,docker,tensorflow,git,github,vscode,gcp" />
 </p>
 
 ---
