@@ -1,16 +1,10 @@
-# 👋 Merhaba, I am İbrahim Yavuz
+# 👋 Hi, I am İbrahim Yavuz
 
-Ben Türkçe diline ve doğal dil işleme (NLP) alanına odaklanan bir yapay zeka mühendisiyim.  
-Kendi tokenizer’ımı, embedding modelimi ve domain-spesifik LLM projelerimi geliştiriyorum.  
-Şu anda Türk Yargıtay kararları üzerine semantik arama ve danışmanlık sağlayan **Etikos AI** üzerinde çalışıyorum.
-
----
-🚀 About me
-🎓 [Üniversite/Eğitim Bilgisi, örn: Bilgisayar Mühendisliği, [Üniversite Adı]]
+## 👀 About me
+🤖 I am an AI Engineer
 💼 Şu anda [çalıştığınız yer veya freelance/öğrenci olduğunuzu belirtin]
-🌟 İlgi Alanlarım: Makine Öğrenimi, Derin Öğrenme, NLP, Bilgisayarlı Görü
-📍 [Şehir/Ülke, opsiyonel]     
-😄 Boş zamanlarımda [bir hobi, örn: açık kaynak projelere katkıda bulunurum, bilim kurgu kitapları okurum]
+📍 Ankara/Turkiye    
+📧 Email --> yavuzibr98@gmail.com
 
 
 
@@ -29,9 +23,9 @@ Kendi tokenizer’ımı, embedding modelimi ve domain-spesifik LLM projelerimi g
 
 ---
 
-## ⚙️ Kullandığım Teknolojiler
+## ⚙️ Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,docker,tensorflow,git,github,vscode,postgresql" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,docker,tensorflow,git,github,vscode,pinecone" />
 </p>
 
 ---
