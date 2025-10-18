@@ -47,7 +47,7 @@
 
 ---
 
-## 📫 Bana Ulaş
+## 📫Contact
 - 🌐 [LinkedIn](https://www.linkedin.com/in/ibrahimyavuz/)  
 - ✉️ [Email](mailto:ibrahimyavuz@example.com)  
 
