@@ -24,7 +24,7 @@
   <img src="https://skillicons.dev/icons?i=github" height="120" title="GitHub" alt="GitHub" />
   <img src="https://skillicons.dev/icons?i=vscode" height="120" title="VS Code" alt="VS Code" />
   <img src="https://skillicons.dev/icons?i=gcp" height="120" title="Google Cloud" alt="Google Cloud" />
-  <img src="https://skillicons.dev/icons?i=notion" height="120" title="Python" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=notion" height="120" title="Notion" alt="Notion" />
 </p>
 
 ---
