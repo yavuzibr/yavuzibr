@@ -1,5 +1,5 @@
 # 👋 Hi, I am İbrahim Yavuz
-I’m a passionate AI Engineer with a strong background in Python, PyTorch, FastAPI, and AI development.
+I’m a passionate AI Engineer.
 My work focuses on designing scalable, production-ready AI systems.
 I love solving complex challenges that combine data, algorithms, and creativity — from model design to real-world deployment.
 
