@@ -32,3 +32,11 @@ I’m open to collaborations and research opportunities related to
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yavuzibr&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yavuzibr&layout=compact&theme=tokyonight" />
 </p>
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=yavuzibr&show_icons=true&theme=radical&count_private=true&hide_border=true)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=yavuzibr&theme=radical&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yavuzibr&layout=compact&theme=radical&hide_border=true&langs_count=8)
