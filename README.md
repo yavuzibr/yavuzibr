@@ -36,19 +36,9 @@
 
 ---
 
-## 📊 My Github Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KULLANICIADI&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICIADI&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KULLANICIADI&theme=tokyonight&hide_border=true" alt="GitHub Streak">
-</p>
-
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yavuzibr&show_icons=true&theme=radical&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yavuzibr&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yavuzibr&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yavuzibr&show_icons=true&theme=tokyonight&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yavuzibr&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yavuzibr&layout=compact&theme=tokyonight" />
 </p>
