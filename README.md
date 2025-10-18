@@ -3,7 +3,7 @@ I’m a passionate AI Engineer with a strong background in Python, PyTorch, Fast
 My work focuses on designing scalable, production-ready AI systems.
 I love solving complex challenges that combine data, algorithms, and creativity — from model design to real-world deployment.
 
-I’m open to collaborations and research opportunities related to
+I’m open to collaborations and research opportunities related to AI
 
 ## 👀 About me
 - 🤖 I am a passionate AI Engineer
