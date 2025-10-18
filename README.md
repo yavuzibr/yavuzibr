@@ -1,10 +1,10 @@
 # 👋 Hi, I am İbrahim Yavuz
 
 ## 👀 About me
-🤖 I am an AI Engineer
-💼 Şu anda [çalıştığınız yer veya freelance/öğrenci olduğunuzu belirtin]
-📍 Ankara/Turkiye    
-📧 Email --> yavuzibr98@gmail.com
+- 🤖 I am an AI Engineer
+- 📍 Ankara/Turkiye    
+- 📧 Email --> yavuzibr98@gmail.com
+**Vector Databases:** Milvus • Qdrant • Pinecone • Weaviate • FAISS
 
 
 ## 🧩 Uzmanlık Alanlarım
@@ -47,7 +47,7 @@
 ## 📫 Bana Ulaş
 - 🌐 [LinkedIn](https://www.linkedin.com/in/ibrahimyavuz/)  
 - ✉️ [Email](mailto:ibrahimyavuz@example.com)  
-- 🧩 [Portfolio Website](https://ibrahimyavuz.dev) _(isteğe bağlı)_
+
 
 ---
 
