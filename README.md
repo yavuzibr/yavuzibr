@@ -4,16 +4,7 @@
 - 🤖 I am an AI Engineer
 - 📍 Ankara/Turkiye    
 - 📧 Email --> yavuzibr98@gmail.com
-- **Vector Databases:** Milvus • Qdrant • Pinecone • Weaviate • FAISS
-
-
-## 🧩 Uzmanlık Alanlarım
-- 🔹 **Doğal Dil İşleme (NLP)** – Tokenization, Morphological Analysis, Embedding Models  
-- 🔹 **LLM Development** – Fine-tuning, Prompt Engineering, RAG Pipelines  
-- 🔹 **AI Infrastructure** – FastAPI, Docker, LangChain, Milvus, Groq API  
-- 🔹 **Data Engineering** – Data Curation, Cleaning, Structuring Legal Texts  
-
----
+- 🌐 [LinkedIn](https://www.linkedin.com/in/ibrahim-yavuz-tr98/)  
 
 ## 🧠 Şu Anda Üzerinde Çalıştıklarım
 - 🇹🇷 **PursakAI** – Türkçe açık kaynak LLM ekosistemi  
