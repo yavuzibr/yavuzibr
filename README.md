@@ -4,7 +4,7 @@
 - 🤖 I am an AI Engineer
 - 📍 Ankara/Turkiye    
 - 📧 Email --> yavuzibr98@gmail.com
-**Vector Databases:** Milvus • Qdrant • Pinecone • Weaviate • FAISS
+- **Vector Databases:** Milvus • Qdrant • Pinecone • Weaviate • FAISS
 
 
 ## 🧩 Uzmanlık Alanlarım
