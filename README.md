@@ -1,10 +1,12 @@
 # 👋 Hi, I am İbrahim Yavuz
+ I am a passionate Turkish AI Engineer. You can find 
 
 ## 👀 About me
 - 🤖 I am an AI Engineer
 - 📍 Ankara/Turkiye    
 - 📧 Email --> yavuzibr98@gmail.com
-- 🌐 [LinkedIn](https://www.linkedin.com/in/ibrahim-yavuz-tr98/)  
+- 🌐 Linkedin --> linkedin.com/in/ibrahim-yavuz-tr98
+- 
 
 ## 🧠 Şu Anda Üzerinde Çalıştıklarım
 - 🇹🇷 **PursakAI** – Türkçe açık kaynak LLM ekosistemi  
@@ -26,10 +28,6 @@
   <img src="https://skillicons.dev/icons?i=notion" height="120" title="Python" alt="Python" />
 </p>
 
-
-
-
-
 ---
 
 ## 🧾 Seçili Projelerim
@@ -47,11 +45,10 @@
 
 ---
 
-## 📫Contact
-- 🌐 [LinkedIn](https://www.linkedin.com/in/ibrahimyavuz/)  
-- ✉️ [Email](mailto:ibrahimyavuz@example.com)  
-
-
----
-
-⭐️ Eğer projelerim ilginizi çektiyse → **Star** bırakmayı unutma!  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KULLANICIADI&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICIADI&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KULLANICIADI&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+</p>
