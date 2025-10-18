@@ -29,10 +29,6 @@
 
 
 
-## ⚙️ Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,docker,tensorflow,git,github,vscode,gcp" />
-</p>
 
 ---
 
