@@ -13,6 +13,17 @@
 
 ---
 
+## ⚙️ Tech Stackl
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,docker,tensorflow,git,github,vscode,gcp" />
+</p>
+
+**Legend:** Python • PyTorch • FastAPI • Docker • TensorFlow • Git • GitHub • VS Code • Google Cloud
+
+
+
+
+
 ## ⚙️ Tech Stack
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,docker,tensorflow,git,github,vscode,gcp" />
