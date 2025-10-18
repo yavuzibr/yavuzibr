@@ -12,17 +12,17 @@
 - 🧩 **Turkish Morphological Tokenizer** – BPE + Morfoloji tabanlı tokenizasyon modeli  
 
 ---
-
+## ⚙️ Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python" height="40" title="Python" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=pytorch" height="40" title="PyTorch" alt="PyTorch" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="40" title="FastAPI" alt="FastAPI" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" title="Docker" alt="Docker" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="40" title="TensorFlow" alt="TensorFlow" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" title="Git" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" title="GitHub" alt="GitHub" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" title="VS Code" alt="VS Code" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="40" title="Google Cloud" alt="Google Cloud" />
+  <img src="https://skillicons.dev/icons?i=python" height="80" title="Python" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="80" title="PyTorch" alt="PyTorch" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="80" title="FastAPI" alt="FastAPI" />
+  <img src="https://skillicons.dev/icons?i=docker" height="80" title="Docker" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="80" title="TensorFlow" alt="TensorFlow" />
+  <img src="https://skillicons.dev/icons?i=git" height="80" title="Git" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github" height="80" title="GitHub" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="80" title="VS Code" alt="VS Code" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="80" title="Google Cloud" alt="Google Cloud" />
 </p>
 
 
