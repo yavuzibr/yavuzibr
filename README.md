@@ -1,12 +1,11 @@
 # 👋 Hi, I am İbrahim Yavuz
- I am a passionate Turkish AI Engineer. You can find 
 
 ## 👀 About me
 - 🤖 I am an AI Engineer
 - 📍 Ankara/Turkiye    
 - 📧 Email --> yavuzibr98@gmail.com
 - 🌐 Linkedin --> linkedin.com/in/ibrahim-yavuz-tr98
-- 
+
 
 ## 🧠 Şu Anda Üzerinde Çalıştıklarım
 - 🇹🇷 **PursakAI** – Türkçe açık kaynak LLM ekosistemi  
@@ -37,13 +36,7 @@
 
 ---
 
-## 📊 GitHub İstatistikleri
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yavuzibr&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yavuzibr&layout=compact&theme=radical" />
-</p>
-
----
+## 📊 My Github Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KULLANICIADI&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
