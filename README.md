@@ -6,13 +6,6 @@
 - 📧 Email --> yavuzibr98@gmail.com
 - 🌐 Linkedin --> linkedin.com/in/ibrahim-yavuz-tr98
 
-
-## 🧠 Şu Anda Üzerinde Çalıştıklarım
-- 🇹🇷 **PursakAI** – Türkçe açık kaynak LLM ekosistemi  
-- ⚖️ **Etikos AI** – Türk hukuk sistemine özel yapay zekâ asistanı  
-- 🧩 **Turkish Morphological Tokenizer** – BPE + Morfoloji tabanlı tokenizasyon modeli  
-
----
 ## ⚙️ Tech Stack
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python" height="120" title="Python" alt="Python" />
@@ -27,14 +20,6 @@
   <img src="https://skillicons.dev/icons?i=notion" height="120" title="Notion" alt="Notion" />
 </p>
 
----
-
-## 🧾 Seçili Projelerim
-- 🔍 [Etikos AI](https://github.com/yavuzibr/etikos-ai) – Türk hukuk sistemine özel LLM destekli asistan  
-- 🤖 [Turkish Morphological Tokenizer](https://github.com/yavuzibr/tr-morph-tokenizer) – Türkçe için özel morfolojik tokenizer  
-- 🧠 [Semantic Search Engine](https://github.com/yavuzibr/legal-semantic-search) – Milvus tabanlı RAG arama sistemi  
-
----
 
 ## 📊 GitHub Stats
 <p align="center">
