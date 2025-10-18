@@ -26,13 +26,6 @@ I’m open to collaborations and research opportunities related to AI
 </p>
 
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yavuzibr&show_icons=true&theme=tokyonight&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yavuzibr&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yavuzibr&layout=compact&theme=tokyonight" />
-</p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yavuzibr&style=flat-square&color=blue" />
 </p>
