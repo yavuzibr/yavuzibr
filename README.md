@@ -45,3 +45,10 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KULLANICIADI&theme=tokyonight&hide_border=true" alt="GitHub Streak">
 </p>
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yavuzibr&show_icons=true&theme=radical&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yavuzibr&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yavuzibr&layout=compact&theme=radical" />
+</p>
