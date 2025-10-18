@@ -13,19 +13,17 @@
 
 ---
 
-## ⚙️ Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python" height="32" title="Python" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=pytorch" height="32" title="PyTorch" alt="PyTorch" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="32" title="FastAPI" alt="FastAPI" />
-  <img src="https://skillicons.dev/icons?i=docker" height="32" title="Docker" alt="Docker" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="32" title="TensorFlow" alt="TensorFlow" />
-  <img src="https://skillicons.dev/icons?i=git" height="32" title="Git" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=github" height="32" title="GitHub" alt="GitHub" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="32" title="VS Code" alt="VS Code" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="32" title="Google Cloud" alt="Google Cloud" />
+  <img src="https://skillicons.dev/icons?i=python" height="40" title="Python" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="40" title="PyTorch" alt="PyTorch" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="40" title="FastAPI" alt="FastAPI" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" title="Docker" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="40" title="TensorFlow" alt="TensorFlow" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" title="Git" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" title="GitHub" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" title="VS Code" alt="VS Code" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="40" title="Google Cloud" alt="Google Cloud" />
 </p>
-
 
 
 
