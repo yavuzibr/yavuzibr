@@ -6,7 +6,7 @@ I love solving complex challenges that combine data, algorithms, and creativity 
 I’m open to collaborations and research opportunities related to AI
 
 ## 👀 About me
-- 🤖 I am a passionate AI Engineer
+- 🤖 I build things
 - 📍 Ankara/Turkiye    
 - 📧 Email --> yavuzibr98@gmail.com
 - 🌐 Linkedin --> linkedin.com/in/ibrahim-yavuz-tr98
